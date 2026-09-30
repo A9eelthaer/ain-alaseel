@@ -1,0 +1,252 @@
+{
+ "rev": 1,
+ "seq": 1004,
+ "updatedAt": "",
+ "settings": {
+  "whatsapp": "9647807790009",
+  "whatsappDisplay": "+964 780 779 0009",
+  "instagram": "co.alaseel",
+  "currency": "د.ع",
+  "logo": "",
+  "orderNote": "هذا المنتج يُستورد من الصين حسب الطلب. راسلنا على واتساب لمعرفة مدة الوصول.",
+  "cartNote": "بعد استلام رسالتك على واتساب نتواصل معك لتأكيد الطلب والتوصيل.",
+  "repo": "A9eelthaer/ain-alaseel"
+ },
+ "sections": [
+  {
+   "id": "men",
+   "name": "رجالي",
+   "kind": "clothes"
+  },
+  {
+   "id": "women",
+   "name": "نسائي",
+   "kind": "clothes"
+  },
+  {
+   "id": "kids",
+   "name": "أطفال",
+   "kind": "kids"
+  },
+  {
+   "id": "shoes",
+   "name": "أحذية",
+   "kind": "shoes"
+  },
+  {
+   "id": "bags",
+   "name": "حقائب",
+   "kind": "none"
+  },
+  {
+   "id": "scarves",
+   "name": "شالات",
+   "kind": "none"
+  },
+  {
+   "id": "accessories",
+   "name": "إكسسوارات",
+   "kind": "none"
+  }
+ ],
+ "products": [
+  {
+   "id": "p1004",
+   "code": "AS-1004",
+   "name": "حقيبة يد نسائية بمقبض علوي",
+   "section": "bags",
+   "price": 22000,
+   "oldPrice": 0,
+   "status": "in",
+   "desc": "جلد صناعي بملمس ناعم، سحّاب وجيب داخلي.\nالمقاس تقريباً 28 × 22 سم.",
+   "images": [
+    {
+     "f": "img/samples/bag.svg",
+     "t": "img/samples/bag.svg"
+    }
+   ],
+   "sizes": [],
+   "perSize": false,
+   "colors": [
+    {
+     "name": "جملي",
+     "hex": "#B98A5A",
+     "img": 0
+    },
+    {
+     "name": "أسود",
+     "hex": "#111111",
+     "img": -1
+    },
+    {
+     "name": "بيج",
+     "hex": "#D8C6A8",
+     "img": -1
+    }
+   ],
+   "sample": true,
+   "createdAt": 4
+  },
+  {
+   "id": "p1003",
+   "code": "AS-1003",
+   "name": "حذاء رياضي خفيف للمشي",
+   "section": "shoes",
+   "price": 30000,
+   "oldPrice": 0,
+   "status": "in",
+   "desc": "نعل مطاطي خفيف ومريح للاستخدام اليومي.",
+   "images": [
+    {
+     "f": "img/samples/shoe.svg",
+     "t": "img/samples/shoe.svg"
+    }
+   ],
+   "sizes": [
+    {
+     "label": "40",
+     "price": 0
+    },
+    {
+     "label": "41",
+     "price": 0
+    },
+    {
+     "label": "42",
+     "price": 0
+    },
+    {
+     "label": "43",
+     "price": 0
+    },
+    {
+     "label": "44",
+     "price": 32000
+    }
+   ],
+   "perSize": true,
+   "colors": [
+    {
+     "name": "أبيض",
+     "hex": "#F7F7F4",
+     "img": 0
+    },
+    {
+     "name": "أسود",
+     "hex": "#111111",
+     "img": -1
+    }
+   ],
+   "sample": true,
+   "createdAt": 3
+  },
+  {
+   "id": "p1002",
+   "code": "AS-1002",
+   "name": "فستان نسائي طويل بخصر مزموم",
+   "section": "women",
+   "price": 35000,
+   "oldPrice": 42000,
+   "status": "order",
+   "desc": "قماش خفيف مناسب للصيف، أكمام قصيرة وطول كامل.",
+   "images": [
+    {
+     "f": "img/samples/dress.svg",
+     "t": "img/samples/dress.svg"
+    }
+   ],
+   "sizes": [
+    {
+     "label": "S",
+     "price": 0
+    },
+    {
+     "label": "M",
+     "price": 0
+    },
+    {
+     "label": "L",
+     "price": 0
+    },
+    {
+     "label": "XL",
+     "price": 0
+    }
+   ],
+   "perSize": false,
+   "colors": [
+    {
+     "name": "خمري",
+     "hex": "#7C1F2E",
+     "img": 0
+    },
+    {
+     "name": "أسود",
+     "hex": "#111111",
+     "img": -1
+    },
+    {
+     "name": "زيتوني",
+     "hex": "#6B7A3A",
+     "img": -1
+    }
+   ],
+   "sample": true,
+   "createdAt": 2
+  },
+  {
+   "id": "p1001",
+   "code": "AS-1001",
+   "name": "قميص رجالي كتان بأكمام طويلة",
+   "section": "men",
+   "price": 25000,
+   "oldPrice": 0,
+   "status": "in",
+   "desc": "كتان مريح بقصّة عادية.",
+   "images": [
+    {
+     "f": "img/samples/shirt.svg",
+     "t": "img/samples/shirt.svg"
+    }
+   ],
+   "sizes": [
+    {
+     "label": "M",
+     "price": 0
+    },
+    {
+     "label": "L",
+     "price": 0
+    },
+    {
+     "label": "XL",
+     "price": 0
+    },
+    {
+     "label": "2XL",
+     "price": 0
+    }
+   ],
+   "perSize": false,
+   "colors": [
+    {
+     "name": "أوف وايت",
+     "hex": "#EFE9DC",
+     "img": 0
+    },
+    {
+     "name": "أبيض",
+     "hex": "#F7F7F4",
+     "img": -1
+    },
+    {
+     "name": "كحلي",
+     "hex": "#1E2A4A",
+     "img": -1
+    }
+   ],
+   "sample": true,
+   "createdAt": 1
+  }
+ ]
+}
